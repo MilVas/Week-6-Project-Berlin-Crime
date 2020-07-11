@@ -8,7 +8,7 @@
 
 **Data Analytics, June 2020, Berlin**
 
-**Milena Vasić and Şelale ADD YOUR LAST NAME**
+**Milena Vasić and Şelale Urun**
 
 
 ## Content
