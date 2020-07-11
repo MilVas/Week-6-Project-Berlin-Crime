@@ -45,6 +45,6 @@ TouristsNumbers.xlsx contains information about number of tourists and number of
 
 Our work is stored in two Jupyter notebooks: 
 [Crime and its Spatial Distribution](CrimeAndItsSpatialDistribution.ipynb) and 
-[Temporal Distribution of Crime](https://github.com/MilVas/Project6/blob/master/CrimeAndItsSpatialDitribution.ipynb)
+[Berlin Crime Through Time](https://github.com/MilVas/Project6/blob/master/CrimeAndItsSpatialDitribution.ipynb)
 We also added our presentation file in the repository. 
 
